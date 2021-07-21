@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Votes by party",
+      "tensorShape": [
+        24,
+        185
+      ],
+      "tensorPath": "https://congresso-nacional.s3.amazonaws.com/votes_by_party_vector.tsv",
+      "metadataPath": "https://congresso-nacional.s3.amazonaws.com/votes_by_party_metadata.tsv"
+    }
+  ]
+}
